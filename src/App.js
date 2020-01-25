@@ -3,7 +3,7 @@ import Dropzone from 'react-dropzone';
 import { CognitoUserPool, CognitoUser, AuthenticationDetails } from 'amazon-cognito-identity-js';
 import axios from 'axios';
 
-const UserPoolId = '';
+const UserPoolId = 'us-east-1_ODIcsKpUK';
 const ClientId = 'uhemtpi76hc5f0uq4ftht9osa';
 const ApiGatewayUrl = 'https://5lyscb2wnh.execute-api.us-east-1.amazonaws.com/production';
 
